@@ -1,1 +1,2 @@
-# keeper-react-website
+# Keeper
+Simple todo list that allows you to add todos and delete them. Does not have persistence with db. Built with Java and react. 
